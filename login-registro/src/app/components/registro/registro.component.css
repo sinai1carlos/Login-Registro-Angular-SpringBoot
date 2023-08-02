@@ -1,0 +1,27 @@
+/* Estilo para inputs largos */
+.input-largo {
+  width: 100%;
+  /* Ajusta el ancho del input al 100% del contenedor */
+}
+
+/* Ajustes adicionales de estilo */
+.container {
+  max-width: 1000px;
+  /* Ancho máximo del formulario */
+  margin: 0 auto;
+  /* Centrar el formulario horizontalmente en la página */
+  padding: 20px;
+  /* Agregar espaciado interno para mayor legibilidad */
+}
+
+.form-group {
+  margin-bottom: 20px;
+  /* Agregar un espacio entre los campos */
+}
+form{
+  padding: 30px;
+}
+.btn {
+  margin-top: 10px;
+  /* Agregar espacio sobre los botones */
+}
